@@ -17,6 +17,7 @@
 # You should have received a copy of the GNU Affero General Public License
 # along with weboob. If not, see <http://www.gnu.org/licenses/>.
 # modification pour nouvelle autentification orange.fr
+# 2017-11-07 linura
 
 #~ from .pages.compose import ClosePage, ComposePage, ConfirmPage, SentPage
 #~ from .pages.login import LoginPage
